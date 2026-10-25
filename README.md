@@ -1,0 +1,4 @@
+B站关注TowerHeart22谢谢喵
+Subscribe TowerHeart22 on Bilibili <3
+解压之后你应该能看见不同的扩展了，选择对应的.zip放进resources文件夹里即可
+少量贴图来自于SPBR资源包，作者Shulker
